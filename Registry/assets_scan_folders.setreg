@@ -1,0 +1,14 @@
+{
+    "Amazon":
+    {
+        "Game.Assets":
+        {
+            "SourcePaths":
+            [
+                "Assets",
+                "ShaderLib",
+                "Shaders"
+            ]
+        }
+    }
+}

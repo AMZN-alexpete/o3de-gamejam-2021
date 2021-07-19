@@ -1,0 +1,16 @@
+{
+    "gem_name": "Game",
+    "display_name": "Game",
+    "license": "What license Game uses goes here: i.e. https://opensource.org/licenses/MIT",
+    "origin": "The primary repo for Game goes here: i.e. http://www.mydomain.com",
+    "type": "Code",
+    "summary": "A short description of Game.",
+    "canonical_tags": [
+        "Gem"
+    ],
+    "user_tags": [
+        "Game"
+    ],
+    "icon_path": "preview.png",
+    "requirements": ""
+}

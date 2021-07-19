@@ -1,0 +1,16 @@
+{
+    "project_name": "Game",
+    "origin": "The primary repo for Game goes here: i.e. http://www.mydomain.com",
+    "license": "What license Game uses goes here: i.e. https://opensource.org/licenses/MIT",
+    "display_name": "Game",
+    "summary": "A short description of Game.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "Game"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de-install",
+    "restricted_name": "projects"
+}

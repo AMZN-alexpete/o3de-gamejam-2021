@@ -1,0 +1,108 @@
+{
+    "Amazon": {
+        "Gems": {
+            "PhysX": {
+                "PhysXSystemConfiguration": {
+                    "CollisionConfig": {
+                        "Layers": {
+                            "LayerNames": [
+                                "Default",
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                "TouchBend"
+                            ]
+                        },
+                        "Groups": {
+                            "GroupPresets": [
+                                {
+                                    "Name": "All",
+                                    "ReadOnly": true
+                                },
+                                {
+                                    "Id": {
+                                        "GroupId": "{43D0CA58-D67C-4316-8310-8A62350F01A0}"
+                                    },
+                                    "Name": "None",
+                                    "Group": {
+                                        "Mask": 0
+                                    },
+                                    "ReadOnly": true
+                                },
+                                {
+                                    "Id": {
+                                        "GroupId": "{E9A0A571-FC0A-4460-89F1-A4A9F412BF6A}"
+                                    },
+                                    "Name": "All_NoTouchBend",
+                                    "Group": {
+                                        "Mask": 9223372036854775807
+                                    },
+                                    "ReadOnly": true
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
