@@ -84,4 +84,5 @@ set(ENABLED_GEMS
     UiBasics
     Vegetation
     AudioEngineWwise
+    VideoPlaybackFramework
 )
