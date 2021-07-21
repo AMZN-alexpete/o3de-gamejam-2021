@@ -1,0 +1,11 @@
+{
+    "Amazon": {
+        "Project": {
+            "Settings": {
+                "Build": {
+                    "project_build_path": "build/windows_vs2019"
+                }
+            }
+        }
+    }
+}
